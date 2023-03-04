@@ -1,7 +1,6 @@
 This is a rice for gnome DE
 
----------------DON'T INSTALL THE MUTTER ROUNDED ON ANY DISTRO THAT IS NOT 22.04 BASED, thank you!-----------------
-
+DON'T INSTALL THE MUTTER ROUNDED ON ANY DISTRO THAT IS NOT 22.04 BASED, thank you!
 
 I recommend you making a TimeShift backup just for caution, especially if you're going to install the mutter-rounded!
 
