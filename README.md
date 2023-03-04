@@ -4,8 +4,9 @@ DON'T INSTALL THE MUTTER ROUNDED ON ANY DISTRO THAT IS NOT 22.04 BASED, thank yo
 
 I recommend you making a TimeShift backup just for caution, especially if you're going to install the mutter-rounded!
 
-For the installation, just run as root the scripts you want to install, you will get the same looking as mine.
+For the installation, just run as root the scripts you want to install, you will get the same looking as mine. After the installation you will need to set the theme and icons via gnome tweak tool.
 For the mutter settings, you will need to run "gjs dist/mutter_settings.js" after the installation in terminal for the settings gui, once you opened it you can change window borders, border color, transparency, blurriness and the windows that you want to apply the effects.
+
 
 The theme isn't finished yet, if you like it, please check soon for updates.
 
