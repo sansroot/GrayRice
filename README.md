@@ -1,4 +1,4 @@
-This is a theme for the GNOME desktop environment.
+This is a rice for the GNOME desktop environment.
 
 DON'T INSTALL THE MUTTER ROUNDED ON DISTROS THAT ARE NOT 22.04-BASED, thank you!
 
