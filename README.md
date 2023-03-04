@@ -9,4 +9,6 @@ The theme isn't finished yet, if you like it, please check soon for updates.
 
 ![image](https://user-images.githubusercontent.com/29405747/222906770-48dfa095-b6da-440b-b135-1754976debcf.png)
 ![image](https://user-images.githubusercontent.com/29405747/222906786-8b142cf1-8997-4cb3-8103-053001ba6602.png)
+![image](https://user-images.githubusercontent.com/29405747/222907547-376a9592-d235-4e16-ab50-ec5421cbaf93.png)
+
 
