@@ -1,18 +1,11 @@
-This is a rice for gnome DE
+This is a theme for the GNOME desktop environment.
 
-DON'T INSTALL THE MUTTER ROUNDED ON DISTROS THAT ARE NOT 22.04 BASED, thank you!
+DON'T INSTALL THE MUTTER ROUNDED ON DISTROS THAT ARE NOT 22.04-BASED, thank you!
 
-I recommend you making a TimeShift backup just for caution, especially if you're going to install the mutter-rounded!
+I recommend making a TimeShift backup just to be cautious, especially if you're going to install the mutter-rounded!
 
-For the installation, just run as root the scripts you want to install, you will get the same looking as mine. After the installation you will need to set the theme and icons via gnome tweak tool.
+To install, simply run the scripts you want to install as root. This will give you the same look as mine. After installation, you'll need to set the theme and icons via GNOME Tweak Tool.
 
-For the mutter settings, you will need to run "gjs dist/mutter_settings.js" after the installation in terminal for the settings gui, once you opened it, you can change window borders, border color, transparency, blurriness and the windows that you want to apply the effects.
+For mutter settings, run "gjs dist/mutter_settings.js" in the terminal after installation to access the settings GUI. From there, you can change window borders, border color, transparency, blurriness, and the windows on which to apply the effects.
 
-
-The theme isn't finished yet, if you like it, please check soon for updates.
-
-![image](https://user-images.githubusercontent.com/29405747/222906770-48dfa095-b6da-440b-b135-1754976debcf.png)
-![image](https://user-images.githubusercontent.com/29405747/222906786-8b142cf1-8997-4cb3-8103-053001ba6602.png)
-![image](https://user-images.githubusercontent.com/29405747/222907547-376a9592-d235-4e16-ab50-ec5421cbaf93.png)
-
-
+The theme isn't finished yet. If you like it, please check back soon for updates.
