@@ -10,6 +10,7 @@ For mutter settings, run "gjs dist/mutter_settings.js" in the terminal after ins
 
 The theme isn't finished yet. If you like it, please check back soon for updates.
 
-![Screenshot from 2023-03-15 23-06-48](https://user-images.githubusercontent.com/29405747/225491371-b52309b5-60fa-40c9-a5ec-fbb5d82aa41d.png)
-![Screenshot from 2023-03-15 23-07-20](https://user-images.githubusercontent.com/29405747/225491376-6c3e92ab-93bc-4414-91c1-091c1e04ec54.png)
-![Screenshot from 2023-03-15 23-07-59](https://user-images.githubusercontent.com/29405747/225491377-d0048e87-96b0-4b57-b8e0-5f2701f1f057.png)
+
+![Screenshot from 2023-03-16 20-11-28](https://user-images.githubusercontent.com/29405747/225772705-31a3c088-9ecd-4a84-8c74-528bbc8eea5b.png)
+![Screenshot from 2023-03-16 20-11-34](https://user-images.githubusercontent.com/29405747/225772706-e3f6a69f-67a0-4b48-9288-a8dc2ed2e825.png)
+![Screenshot from 2023-03-16 20-11-40](https://user-images.githubusercontent.com/29405747/225772711-e12cbcd0-cbd6-4e81-b537-f1e4efa97b5b.png)
