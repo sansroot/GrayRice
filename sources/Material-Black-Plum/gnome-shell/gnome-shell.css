@@ -767,8 +767,8 @@ StScrollBar {
     border-top: 0px;
     border-radius: 9999px;
     border-color: transparent;
-    background-gradient-start: #fffc4a   !important;
-    background-gradient-end: #ff2f9e !important;
+    background-gradient-start: #ff4fad   !important;
+    background-gradient-end: #892fff !important;
     background-gradient-direction: vertical;
     color: whitesmoke;
     text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.9);
@@ -778,8 +778,8 @@ StScrollBar {
       margin-left: 4px;
       margin-right: 4px; }
     #panel .panel-button:hover {
-      background-gradient-start:   #ffcce4  !important;
-      background-gradient-end: #ff44a8  !important;
+      background-gradient-start: #fffc4a   !important;
+      background-gradient-end: #ff2f9e !important;
       background-gradient-direction: vertical;
       border-right: 3px;
       border-left: 3px ;
@@ -792,6 +792,13 @@ StScrollBar {
       transition-duration: 500ms; }
     #panel .panel-button:active, #panel .panel-button:overview, #panel .panel-button:focus, #panel .panel-button:checked {
       box-shadow: none;
+      border-right: 3px;
+      border-left: 3px ;
+      border-bottom: 1px;
+      
+      border-top: 1px;
+      border-radius: 9999px;
+      border-color: rgb(179, 179, 179);
        
       background-gradient-start: #fffc4a   !important;
       background-gradient-end: #ff2f9e !important;
@@ -1401,8 +1408,8 @@ background-color: rgba(92, 92, 92, 0.774);
   .grid-search-result:hover .overview-icon,
   .grid-search-result:focus .overview-icon,
   .grid-search-result:selected .overview-icon {
-    background-gradient-start:   #ffcce4  !important;
-    background-gradient-end: #ff44a8  !important;
+    background-gradient-start: #ff4fad   !important;
+    background-gradient-end: #892fff !important;
     background-gradient-direction: vertical;
         
     border-radius: 9999px;
@@ -1417,7 +1424,9 @@ background-color: rgba(92, 92, 92, 0.774);
   .show-apps:checked .overview-icon,
   .grid-search-result:active .overview-icon,
   .grid-search-result:checked .overview-icon {
-    background-color: rgb(132, 0, 255);
+    background-gradient-start: #ff4fad   !important;
+    background-gradient-end: #892fff !important;
+    background-gradient-direction: vertical;
     border-color: #d1c3c3; /*CLASSE DO BOTÃO DE APLICATIVOS BOTÃO DA DASH*/
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
     color: #C3C7D1; }
