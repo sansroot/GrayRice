@@ -9,6 +9,7 @@ To install, simply run the scripts you want to install as root. This will give y
 For mutter settings, run "gjs dist/mutter_settings.js" in the terminal after installation to access the settings GUI. From there, you can change window borders, border color, transparency, blurriness, and the windows on which to apply the effects.
 
 The theme isn't finished yet. If you like it, please check back soon for updates.
-![Screenshot from 2023-03-15 18-55-55](https://user-images.githubusercontent.com/29405747/225453094-e12b79f8-1490-4ad4-b01b-11fe73d8ad16.png)
-![Screenshot from 2023-03-15 18-56-23](https://user-images.githubusercontent.com/29405747/225453100-2d6f769f-6d3d-426e-adf0-b0ea102d7222.png)
-![Screenshot from 2023-03-15 18-56-29](https://user-images.githubusercontent.com/29405747/225453102-23b36bb1-acac-450a-8828-78fd8206fc0d.png)
+
+![Screenshot from 2023-03-15 22-17-05](https://user-images.githubusercontent.com/29405747/225484775-5e06d363-4ef9-4071-a4d0-eb8a3628f058.png)
+![Screenshot from 2023-03-15 22-17-29](https://user-images.githubusercontent.com/29405747/225484780-a9529364-2c27-4afc-a0de-ccc44de99f22.png)
+![Screenshot from 2023-03-15 22-17-37](https://user-images.githubusercontent.com/29405747/225484784-b3562034-40b5-4872-989c-a21abaa38614.png)
