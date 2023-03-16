@@ -1,2 +1,2 @@
-sudo mv ./sources/Material-Black-Plum -t /usr/share/themes/
+sudo mv ./sources/GrayRice -t /usr/share/themes/
 
