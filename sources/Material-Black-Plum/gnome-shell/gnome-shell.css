@@ -760,12 +760,16 @@ StScrollBar {
     -natural-hpadding: 12px;
     -minimum-hpadding: 6px;
     font-weight: bold;
-    border-right: 3px;
-    border-left: 3px ;
+    border-right: 0px;
+    margin: 2px 2px 2px 2px;
+    border-left: 0px ;
     border-bottom: 0px;
     border-top: 0px;
     border-radius: 9999px;
-    border-color: whitesmoke;
+    border-color: transparent;
+    background-gradient-start: #fffc4a   !important;
+    background-gradient-end: #ff2f9e !important;
+    background-gradient-direction: vertical;
     color: whitesmoke;
     text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.9);
     transition-duration: 100ms; }
@@ -774,24 +778,25 @@ StScrollBar {
       margin-left: 4px;
       margin-right: 4px; }
     #panel .panel-button:hover {
-      background-gradient-start:#fffb00   !important;
-      background-gradient-end: #ff0088  !important;
+      background-gradient-start:   #ffcce4  !important;
+      background-gradient-end: #ff44a8  !important;
       background-gradient-direction: vertical;
-      border-right: 2px;
-      border-left: 2px ;
-      border-bottom: 0px;
+      border-right: 3px;
+      border-left: 3px ;
+      border-bottom: 1px;
       
-      border-top: 0px;
+      border-top: 1px;
       border-radius: 9999px;
-      border-color: whitesmoke;
+      border-color: rgb(179, 179, 179);
       color: white;
       transition-duration: 500ms; }
     #panel .panel-button:active, #panel .panel-button:overview, #panel .panel-button:focus, #panel .panel-button:checked {
       box-shadow: none;
        
-      background-gradient-start:#ff0088   !important;
-      background-gradient-end: #fffb00  !important;
+      background-gradient-start: #fffc4a   !important;
+      background-gradient-end: #ff2f9e !important;
       background-gradient-direction: vertical;
+      
       color: #f7f7f7;
       text-shadow: 0px 0px 2px rgba(92, 92, 92, 0.9);
       transition-duration: 200ms; }
@@ -860,7 +865,8 @@ StScrollBar {
 .message-list-section-title:focus,
 .events-button:hover,
 .events-button:focus {
-  background-color: rgba(92, 92, 92, 0.774); }
+  background-color: rgba(92, 92, 92, 0.774);
+ }
 .datemenu-today-button:active,
 .world-clocks-button:active,
 .weather-button:active,
@@ -1395,8 +1401,8 @@ background-color: rgba(92, 92, 92, 0.774);
   .grid-search-result:hover .overview-icon,
   .grid-search-result:focus .overview-icon,
   .grid-search-result:selected .overview-icon {
-    background-gradient-start:  #ff0088 !important;
-    background-gradient-end: #fffb00  !important;
+    background-gradient-start:   #ffcce4  !important;
+    background-gradient-end: #ff44a8  !important;
     background-gradient-direction: vertical;
         
     border-radius: 9999px;
@@ -1412,9 +1418,10 @@ background-color: rgba(92, 92, 92, 0.774);
   .grid-search-result:active .overview-icon,
   .grid-search-result:checked .overview-icon {
     background-color: rgb(132, 0, 255);
-    border-color: #C3C7D1; /*CLASSE DO BOTÃO DE APLICATIVOS BOTÃO DA DASH*/
+    border-color: #d1c3c3; /*CLASSE DO BOTÃO DE APLICATIVOS BOTÃO DA DASH*/
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
     color: #C3C7D1; }
+    
 
 .app-well-app-running-dot {
   box-shadow: 0px 0px 5px 4px rgba(197, 14, 210, 0.8);
@@ -1429,8 +1436,8 @@ background-color: rgba(92, 92, 92, 0.774);
   padding: 6px;
   border-color: transparent;
   border-radius: 9999px;
-  background-gradient-start: #fffb00   !important;
-  background-gradient-end: #ff0088 !important;
+  background-gradient-start: #fffc4a   !important;
+  background-gradient-end: #ff2f9e !important;
   background-gradient-direction: vertical;
       
   transition-duration: 500ms;
@@ -1440,8 +1447,8 @@ background-color: rgba(92, 92, 92, 0.774);
 
 /* App Folders */ 
 .app-well-app.app-folder {
-  background-gradient-start:  #fffb00 !important;
-  background-gradient-end:  #ff0088  !important;
+  background-gradient-start: #fffc4a   !important;
+  background-gradient-end: #ff2f9e !important;
   background-gradient-direction: vertical;
   border-radius: 9999px; }
 
@@ -1462,7 +1469,9 @@ background-color: rgba(92, 92, 92, 0.774);
   background-color: rgba(24, 27, 40, 0.35); }
 
 .show-apps .show-apps-icon {/*ICONE DA DASH AQUI*/
-  color: transparent; }
+  color: transparent;
+  
+   }
 
 .show-apps:checked .show-apps-icon,
 .show-apps:focus .show-apps-icon {
